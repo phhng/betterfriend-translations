@@ -170,7 +170,7 @@ export default {
       },
     },
   },
-  "notifcation-btn": "Notificación",
+  "notification-btn": "Notificación",
   defaultFriendDescription: `*"Un buen amigo es como un trébol de cuatro hojas; difícil de encontrar y afortunado de tener."*\n\n# ¡Haz clic aquí para editar las notas!`,
   dateNotInformed: "Fecha no informada",
   noNewContactsFound: "No se encontraron nuevos contactos",

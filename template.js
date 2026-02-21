@@ -145,7 +145,7 @@ export default {
       },
     },
   },
-  "notifcation-btn": "",
+  "notification-btn": "",
   dateNotInformed: "",
   noNewContactsFound: "",
   contactsError: "",

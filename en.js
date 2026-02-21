@@ -172,7 +172,7 @@ export default {
       },
     },
   },
-  "notifcation-btn": "Notification",
+  "notification-btn": "Notification",
   defaultFriendDescription: `*"A good friend is like a four-leaf clover; hard to find and lucky to have."*\n\n# Click here to edit the notes!`,
   dateNotInformed: "Date not informed",
   noNewContactsFound: "No new contacts found",

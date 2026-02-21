@@ -170,7 +170,7 @@ export default {
       },
     },
   },
-  "notifcation-btn": "Notificação",
+  "notification-btn": "Notificação",
   dateNotInformed: "Data não informada",
   defaultFriendDescription:
     '*"Um bom amigo é como um trevo de quatro folhas; difícil de encontrar e uma sorte ter."*\n\n# Clique aqui para editar as notas!',
